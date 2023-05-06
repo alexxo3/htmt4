@@ -10,7 +10,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    background: deepskyblue;
+    background: rgb(199, 39, 42);
   }
   
   #navbar a {
@@ -23,7 +23,7 @@ body {
   }
   
   #navbar a:hover {
-    background: #00abe5;
+    background: hsla(338, 100%, 45%, 0.402);
   }
   
   main {
@@ -51,7 +51,7 @@ body {
   }
   
   .circle {
-    background: grey;
+    background: rgb(97, 44, 44);
     border-radius: 50%;
     width: 100px;
     height: 100px;
@@ -68,7 +68,7 @@ body {
   
   #copyright {
     text-align: center;
-    background: deepskyblue;
+    background: rgb(255, 64, 0);
     padding: 1em;
   }
 
